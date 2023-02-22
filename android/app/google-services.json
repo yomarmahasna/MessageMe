@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74164058708",
+    "project_id": "messengerme-app",
+    "storage_bucket": "messengerme-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74164058708:android:f1ec89825133cf97facbc1",
+        "android_client_info": {
+          "package_name": "com.mahasna.messenger_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74164058708-p5376lo03td0a90n92db4ukok75u9kpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjHNMQQT5UqcuhWiVjWiA1Fu0jx4E0fQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74164058708-p5376lo03td0a90n92db4ukok75u9kpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
